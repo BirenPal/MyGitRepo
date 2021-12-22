@@ -1,0 +1,1 @@
+Get-services -Name Bit*
